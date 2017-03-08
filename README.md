@@ -9,8 +9,9 @@ Author: Due to restricted access by server, authors' name cannot be accessed. In
 
 
 Instructions:
-Import the mangobaaz.sql on localhost phpmyadmin.
+Import the mangobaaz.sql on localhost phpmyadmin (db should be named mangobaaz).
 unzip mangobaaz.zip
 Copy the mangobaaz folder in htdocs(if using Xampp)
 Now start Xampp, and hit "localhost/mangobaaz" in URL.
 Good to go!
+to load the articles on the web click "Load Mangobaaz Articles"
